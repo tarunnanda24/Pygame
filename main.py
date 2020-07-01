@@ -10,6 +10,7 @@ pygame.display.set_icon(icon)
 background = pygame.image.load('pygame_background.png')
 
 playerImg = pygame.image.load('vdart_logo.png')
+#heell
 playerX = 80
 playerY = 220
 vel = 10
